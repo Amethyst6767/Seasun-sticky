@@ -21,7 +21,7 @@ def keep_alive():
 # ---------------------------------------
 
 # --- ตั้งค่า TOKEN และ ID ห้อง Log ---
-TOKEN = 'MTQ3NTAyOTA4MDQ2NTQ3MzY1OQ.Gmkqy0.euYI-NcJOu1GB87eookkG5kmuowchthyGtPRVc'
+TOKEN = 'MTQ3NTAyOTA4MDQ2NTQ3MzY1OQ.GX2Kwv.F89jXSasAh969hzyIxKM5CqKc0ur8rZKiZqu1k'
 LOG_CHANNEL_ID = 123456789012345678 
 
 class MyBot(commands.Bot):
